@@ -1,3 +1,7 @@
+<p align="center" width="100%">
+  <img src="https://github.com/PTI-Kitab/.github/assets/89518861/bc6b5d86-b7fb-448a-9ada-84bedcb0ee5e" width="250px"></img>
+</p>
+
 # KITAB
 
 KITAB (Kost Information To Anak Baru), merupakan sebuah platform yang bertujuan untuk memberikan solusi bagi mahasiswa baru terutama mereka yang datang dari luar kota atau daerah. Produk ini akan memiliki beberapa fitur seperti : Informasi Kost, Memasarkan Kost, Manage keuangan untuk pemilik Kost, Guide bagi client (mahasiswa). KITAB bertujuan untuk memudahkan proses pencarian kost bagi mahasiswa baru sambil memberikan manfaat bagi pemilik kost dalam mengelola dan memasarkan properti.
@@ -14,5 +18,5 @@ Member dari KITAB merupakan anak Teknik Komputer angkatan 2022, yaitu:
 Tech stack yang digunakan oleh KITAB antara lain:
 - React (vite)
 - ChakraUI
-- Express.js
+- Elysia.js
 - Prisma (MySQL)
