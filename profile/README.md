@@ -14,5 +14,5 @@ Member dari KITAB merupakan anak Teknik Komputer angkatan 2022, yaitu:
 Tech stack yang digunakan oleh KITAB antara lain:
 - React (vite)
 - ChakraUI
-- Elysia.js
+- Express.js
 - Prisma (MySQL)
